@@ -3,7 +3,7 @@ var pass = 1;
 var door = 1;
 
 function handleClick(){
-    
+
     var id = "door" + door;
 
     var element = document.getElementById(id);
@@ -43,22 +43,22 @@ function handleClick(){
 function printOpen(){
     for(var i = 1; i < 101; i++){
         var id = "door" + i;
-    
+
         var element = document.getElementById(id);
-    
+
         if(element.className === 'opened'){
             document.getElementById("doors").innerHTML += " " + i;
         }
-    }                
+    }
 }
 
 
 function setDoors(){
     for(var i = 1; i < 101; i++){
         var id = "door" + i;
-    
+
         var element = document.getElementById(id);
-    
+
         element.className = 'closed';
-    }                
+    }
 }
