@@ -14,4 +14,4 @@ I wanted to write a simple HTML, CSS, and JavaScript page that would actually sh
 
 You can download the zip, unpack it, and double click on the html page to run this in your browser.
 
-When the doors are done the numbers the doors remaining open is displayed below the "Click This!" button.
+When the doors are done the numbers of the doors remaining open are displayed below the "Click This!" button.
