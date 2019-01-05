@@ -13,3 +13,5 @@ This continues until you only visit the 100th door.
 I wanted to write a simple HTML, CSS, and JavaScript page that would actually show the doors opening and closing.
 
 You can download the zip, unpack it, and double click on the html page to run this in your browser.
+
+When the doors are done the numbers the doors remaining open is displayed below the "Click This!" button.
